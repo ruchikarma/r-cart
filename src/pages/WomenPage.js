@@ -1,5 +1,7 @@
 import React from "react";
  
-export default function WomenPage() { 
-  return <h1>WomenPage pages</h1>;
-}
+const WomenPage = () => {
+  return <h1>WomenPage</h1>;
+};
+
+export default WomenPage;
